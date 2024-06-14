@@ -1,1 +1,1 @@
-# estudos_HTML_CSS_JS
+## Estudos utilizando HTML, CSS e JS
